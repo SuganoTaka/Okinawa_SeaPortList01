@@ -1,2 +1,2 @@
 # Okinawa_SeaPortList01
-沖縄県内の漁港釣り場一覧アプリ
+Okinawa
