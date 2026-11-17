@@ -1,0 +1,9 @@
+services:
+  - type: web
+    name: okinawa-fishing-map
+    runtime: node
+    region: singapore
+    plan: free
+    buildCommand: cd Okinawa_FishingMap && npm install
+    startCommand: cd Okinawa_FishingMap && npm start
+    healthCheckPath: /
